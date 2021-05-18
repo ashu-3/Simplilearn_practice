@@ -1,0 +1,4 @@
+Git diff
+git diff --staged
+git log
+git log --oneline
